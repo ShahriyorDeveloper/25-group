@@ -1,0 +1,11 @@
+.boxs {
+    max-width: 1000px;
+    height: 500px;
+    border: 1px solid red;
+}
+
+.box {
+    width: 200px;
+    height: 400px;
+    background-color: aqua;
+}
