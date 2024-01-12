@@ -2,6 +2,9 @@
     max-width: 1000px;
     height: 500px;
     border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 .box {
